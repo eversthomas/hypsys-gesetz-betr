@@ -46,29 +46,29 @@ Skeptizismus: Der radikale Konstruktivismus beinhaltet auch einen skeptischen An
 
 ** systemische Grundlagen
 
-    Ganzheitlichkeit: Systemisches Denken betrachtet Systeme als Ganzes und nicht nur als Summe ihrer Teile. Dabei wird berücksichtigt, dass die Elemente eines Systems in Wechselwirkung stehen und sich gegenseitig beeinflussen.
+Ganzheitlichkeit: Systemisches Denken betrachtet Systeme als Ganzes und nicht nur als Summe ihrer Teile. Dabei wird berücksichtigt, dass die Elemente eines Systems in Wechselwirkung stehen und sich gegenseitig beeinflussen.
 
-    Selbstorganisation: Systeme sind in der Lage, sich selbst zu organisieren und ihre Struktur aufrechtzuerhalten. Dies bedeutet, dass Systeme in der Lage sind, sich an Veränderungen in ihrer Umgebung anzupassen und ihre eigene Stabilität zu erhalten.
+Selbstorganisation: Systeme sind in der Lage, sich selbst zu organisieren und ihre Struktur aufrechtzuerhalten. Dies bedeutet, dass Systeme in der Lage sind, sich an Veränderungen in ihrer Umgebung anzupassen und ihre eigene Stabilität zu erhalten.
 
-    Zirkularität: Systemisches Denken betont die Zirkularität von Ursache und Wirkung. Dabei wird betont, dass Ursachen und Wirkungen oft in einer gegenseitigen Abhängigkeit stehen und ein Kreislauf entsteht.
+Zirkularität: Systemisches Denken betont die Zirkularität von Ursache und Wirkung. Dabei wird betont, dass Ursachen und Wirkungen oft in einer gegenseitigen Abhängigkeit stehen und ein Kreislauf entsteht.
 
-    Kontextualität: Systemisches Denken berücksichtigt den Kontext, in dem ein System existiert. Dies bedeutet, dass ein System in einem bestimmten Umfeld und in Wechselwirkung mit anderen Systemen betrachtet wird.
+Kontextualität: Systemisches Denken berücksichtigt den Kontext, in dem ein System existiert. Dies bedeutet, dass ein System in einem bestimmten Umfeld und in Wechselwirkung mit anderen Systemen betrachtet wird.
 
-    Prozessorientierung: Systemisches Denken konzentriert sich auf Prozesse und Dynamiken innerhalb eines Systems. Dabei wird berücksichtigt, dass Systeme ständig in Veränderung begriffen sind und sich ständig weiterentwickeln.
+Prozessorientierung: Systemisches Denken konzentriert sich auf Prozesse und Dynamiken innerhalb eines Systems. Dabei wird berücksichtigt, dass Systeme ständig in Veränderung begriffen sind und sich ständig weiterentwickeln.
 
-    Lösungsorientierung: Systemisches Denken betrachtet Probleme als Teil eines Systems und konzentriert sich auf die Suche nach Lösungen innerhalb des Systems. Dabei wird davon ausgegangen, dass Lösungen oft in der Wechselwirkung zwischen verschiedenen Elementen eines Systems gefunden werden können.
+Lösungsorientierung: Systemisches Denken betrachtet Probleme als Teil eines Systems und konzentriert sich auf die Suche nach Lösungen innerhalb des Systems. Dabei wird davon ausgegangen, dass Lösungen oft in der Wechselwirkung zwischen verschiedenen Elementen eines Systems gefunden werden können.
 
-    Kommunikation: Systemisches Denken betont die Bedeutung der Kommunikation innerhalb eines Systems. Dabei wird davon ausgegangen, dass die Kommunikation zwischen den Elementen eines Systems die Dynamik des Systems beeinflusst und verändert.
+Kommunikation: Systemisches Denken betont die Bedeutung der Kommunikation innerhalb eines Systems. Dabei wird davon ausgegangen, dass die Kommunikation zwischen den Elementen eines Systems die Dynamik des Systems beeinflusst und verändert.
 
 ** Exkurs über Ethik
 
 Für von Foerster war Ethik keine statische oder universelle Wahrheit, sondern ein konstruktiver Prozess, der von den Beteiligten aktiv gestaltet wird. Ethik entsteht aus der Interaktion zwischen Individuen und ihren sozialen Umgebungen. Seine ethische Theorie basierte auf drei Prinzipien:
 
-    Ethik des Handelns: Von Foerster betonte die Bedeutung der Verantwortung und des Handelns. Er argumentierte, dass Menschen und Organisationen verantwortungsbewusst handeln sollten, um eine positive Wirkung auf die Gesellschaft und die Umwelt zu haben.
+Ethik des Handelns: Von Foerster betonte die Bedeutung der Verantwortung und des Handelns. Er argumentierte, dass Menschen und Organisationen verantwortungsbewusst handeln sollten, um eine positive Wirkung auf die Gesellschaft und die Umwelt zu haben.
 
-    Ethik der Wahrnehmung: Von Foerster glaubte, dass unser Verständnis von Ethik stark von unseren Wahrnehmungen beeinflusst wird. Er betonte die Bedeutung der Reflexion und des kritischen Denkens, um unsere Wahrnehmungen und Interpretationen zu überprüfen und zu erweitern.
+Ethik der Wahrnehmung: Von Foerster glaubte, dass unser Verständnis von Ethik stark von unseren Wahrnehmungen beeinflusst wird. Er betonte die Bedeutung der Reflexion und des kritischen Denkens, um unsere Wahrnehmungen und Interpretationen zu überprüfen und zu erweitern.
 
-    Ethik der Kommunikation: Von Foerster betonte auch die Bedeutung der Kommunikation als grundlegendes Element der Ethik. Er argumentierte, dass wir unsere ethischen Positionen durch Kommunikation mit anderen in der Gesellschaft entwickeln und verbessern können. Eine offene, ehrliche und respektvolle Kommunikation zwischen den Beteiligten ist daher unerlässlich.
+Ethik der Kommunikation: Von Foerster betonte auch die Bedeutung der Kommunikation als grundlegendes Element der Ethik. Er argumentierte, dass wir unsere ethischen Positionen durch Kommunikation mit anderen in der Gesellschaft entwickeln und verbessern können. Eine offene, ehrliche und respektvolle Kommunikation zwischen den Beteiligten ist daher unerlässlich.
 
 Darüber hinaus war für von Foerster Ethik auch eng mit der Idee der Nachhaltigkeit verbunden. Er betonte, dass die Entscheidungen und Handlungen der Menschen nicht nur für die unmittelbare Zukunft, sondern auch für die langfristige Zukunft und die Umwelt konsequent sein sollten.
 
@@ -103,15 +103,15 @@ Das Reflecting Team bietet dem Klienten eine andere Perspektive auf sein Problem
 ### Reflexion und Ausblick
 * Kritische Auseinandersetzung mit hypnosystemischer Beratung in der gesetzlichen Betreuung
 
-    Evidenzbasiertheit: Wie steht es um die wissenschaftliche Evidenz für die Wirksamkeit der hypnosystemischen Beratung in der gesetzlichen Betreuung? Gibt es Studien, die ihre Wirksamkeit belegen oder widerlegen?
+Evidenzbasiertheit: Wie steht es um die wissenschaftliche Evidenz für die Wirksamkeit der hypnosystemischen Beratung in der gesetzlichen Betreuung? Gibt es Studien, die ihre Wirksamkeit belegen oder widerlegen?
 
-    Ethik: Inwieweit werden ethische Prinzipien wie Autonomie, Vertraulichkeit und Selbstbestimmung in der hypnosystemischen Beratung in der gesetzlichen Betreuung respektiert und umgesetzt?
+Ethik: Inwieweit werden ethische Prinzipien wie Autonomie, Vertraulichkeit und Selbstbestimmung in der hypnosystemischen Beratung in der gesetzlichen Betreuung respektiert und umgesetzt?
 
-    Grenzen der hypnosystemischen Beratung: Welche Grenzen hat die hypnosystemische Beratung in der gesetzlichen Betreuung? In welchen Fällen kann sie nicht angemessen eingesetzt werden? Sind die Grenzen der Methode transparent und werden sie den Klienten klar kommuniziert?
+Grenzen der hypnosystemischen Beratung: Welche Grenzen hat die hypnosystemische Beratung in der gesetzlichen Betreuung? In welchen Fällen kann sie nicht angemessen eingesetzt werden? Sind die Grenzen der Methode transparent und werden sie den Klienten klar kommuniziert?
 
-    Rolle des Beraters: Wie sieht die Rolle des Beraters in der hypnosystemischen Beratung in der gesetzlichen Betreuung aus? Inwiefern ist der Berater in der Lage, die Interessen und Bedürfnisse des Klienten zu vertreten? Wie wird die Neutralität des Beraters gewährleistet?
+Rolle des Beraters: Wie sieht die Rolle des Beraters in der hypnosystemischen Beratung in der gesetzlichen Betreuung aus? Inwiefern ist der Berater in der Lage, die Interessen und Bedürfnisse des Klienten zu vertreten? Wie wird die Neutralität des Beraters gewährleistet?
 
-    Verbindung zwischen hypnosystemischer Beratung und gesetzlicher Betreuung: Wie gut passt die hypnosystemische Beratung in die gesetzliche Betreuung? Welche Vorteile bietet sie im Vergleich zu anderen Beratungsmethoden, die in der gesetzlichen Betreuung verwendet werden können? Gibt es potenzielle Konflikte oder Herausforderungen bei der Integration der beiden Ansätze?
+Verbindung zwischen hypnosystemischer Beratung und gesetzlicher Betreuung: Wie gut passt die hypnosystemische Beratung in die gesetzliche Betreuung? Welche Vorteile bietet sie im Vergleich zu anderen Beratungsmethoden, die in der gesetzlichen Betreuung verwendet werden können? Gibt es potenzielle Konflikte oder Herausforderungen bei der Integration der beiden Ansätze?
 
 Eine kritische Auseinandersetzung mit der hypnosystemischen Beratung in der gesetzlichen Betreuung könnte auch darauf abzielen, alternative Ansätze oder Ergänzungen vorzuschlagen, um die Qualität der Betreuung und Beratung zu verbessern. Insgesamt ist es wichtig, die Vor- und Nachteile der hypnosystemischen Beratung in der gesetzlichen Betreuung sorgfältig zu prüfen und kritisch zu diskutieren, um sicherzustellen, dass die Bedürfnisse der Klienten angemessen berücksichtigt werden.
 
