@@ -97,7 +97,9 @@ Nach der Reflektion tritt das Team wieder vor den Klienten und teilt ihm die Erg
 Das Reflecting Team bietet dem Klienten eine andere Perspektive auf sein Problem und gibt ihm die Möglichkeit, seine Sichtweise zu erweitern. Durch die Zusammenarbeit mit einem Team von Therapeuten oder Beratern kann der Klient von verschiedenen Experten profitieren, die unterschiedliche Perspektiven und Erfahrungen haben. Die Technik des Reflecting Teams kann somit dazu beitragen, den Veränderungsprozess zu unterstützen und zu beschleunigen.
 
 ** hypnosystemische Sprachspiele im Umgang mit dem Klientel
+
 ** hypnosystemische unterstützte Entscheidungsfindung
+
 * Fallbeispiele und Erfahrungen aus der Praxis
 
 ### Reflexion und Ausblick
